@@ -130,8 +130,8 @@
 ### JSON
 ```javascript
 let a = {
-  name : "jungho",
-  telnum: "010-2446-7600",
+  name : "leesky",
+  num: "01024799363",
 }  
 ```
 
