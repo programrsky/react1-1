@@ -80,7 +80,7 @@
 ### create-react-app (React 프로젝트 생성)
 - 터미널 새로 생성한 후 ```npx create-react-app app-name```를 입력한다.
 - 패키지 경로를 확인 후 진행할 것이냐고 물어볼 경우 y를 입력한다.
-  - 물어보지 않는 경우도 있었으나, 설치가 가능했다.
+  - 물어보지 않는 경우도 있었으나, 설치가 가능.
 - 성공적으로 프로젝트를 생성하면 아래와 같은 트리 구조가 나타나게 된다.<br />
   - node_modules
   - public
@@ -112,15 +112,15 @@
     - ``` git config user.email```
 - commit 및 message 쓰기
   - 디폴트 언어 : 영어.
-  - message는 enter key 2번 누르고 쓰면 된다.
+  - message는 enter key 2번.
 
 ### HTML
-- 웹 사이트를 구성하는 하나의 구성 요소다.
-- Tag를 이용해 하나의 큰 뼈대를 만든다.
+- 웹 사이트를 구성하는 하나의 구성 요소.
+- Tag로 하나의 큰 뼈대를 만든다.
 
 ### Javasript
 - 동적으로 변경되는 콘텐츠를 만들고, 멀티 미디어 제어, 이미지에 애니메이션 적용.
-- 웹에서 행하는 작업들을 제어하는 스크립트이다.
+- 웹에서 행하는 작업들을 제어하는 스크립트.
 
 ### 자료형
 - var : 재선언 o, 재할당 o.
@@ -137,7 +137,7 @@ let a = {
 
 ### Arrow Function
 ```javascript
-let arrow = a => a + b;
+let arrow = x => x + y;
 ```
 ---
 
